@@ -126,6 +126,13 @@ Machine learning model predicting costs.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
+| Element     | Color     |
+| ----------- | --------- |
+| Background  | `#0d0d16` |
+| Neon Pink   | `#ff2da0` |
+| Purple Glow | `#7a1cff` |
+| Accent      | `#ff5fd2` |
+
 
 ---
 
