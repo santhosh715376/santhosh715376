@@ -126,12 +126,167 @@ Machine learning model predicting costs.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
-| Element     | Color     |
-| ----------- | --------- |
-| Background  | `#0d0d16` |
-| Neon Pink   | `#ff2da0` |
-| Purple Glow | `#7a1cff` |
-| Accent      | `#ff5fd2` |
+<!-- =========================
+     NEON CYBERPUNK PROFILE
+     ========================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF2DA0&center=true&vCenter=true&width=900&lines=Hi+I'm+Techie;AI+Developer;Java+Backend+Engineer;Cloud+Explorer;Building+Cool+Stuff+🚀" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Theme-Neon_Pink-111111?style=for-the-badge&logo=github&logoColor=white&color=ff2da0"/>
+<img src="https://img.shields.io/badge/Mode-Dark-111111?style=for-the-badge&logo=darkreader&logoColor=white&color=ff2da0"/>
+<img src="https://img.shields.io/badge/Profile-Cyberpunk-111111?style=for-the-badge&logo=matrix&logoColor=white&color=ff2da0"/>
+
+</div>
+
+---
+
+# ⚡ About Me
+
+```diff
++ Nice, using dark mode I see... like a true developer.
+```
+
+* 🤖 Building **AI & ML Projects**
+* ☁️ Exploring **AWS & Cloud Infrastructure**
+* ⚙️ Java Backend Developer
+* 🚀 Love building automation & dev tools
+* 🧠 Constantly learning new tech
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/X/Twitter-111111?style=for-the-badge&logo=x&logoColor=white&color=ff2da0"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&color=ff2da0"/>
+</a>
+
+<a href="https://youtube.com">
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white&color=ff2da0"/>
+</a>
+
+<a href="https://twitch.tv">
+<img src="https://img.shields.io/badge/Twitch-111111?style=for-the-badge&logo=twitch&logoColor=white&color=ff2da0"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,aws,mysql,linux,git,vscode,tensorflow,docker&perline=9"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 🤖 AI Resume Screener
+
+AI system that evaluates resumes using GitHub and project authenticity scoring.
+
+</td>
+
+<td width="33%">
+
+### 💰 Fee Management System
+
+Java + MySQL beginner-friendly system for managing student payments.
+
+</td>
+
+<td width="33%">
+
+### 📊 Insurance Cost Prediction
+
+Machine learning model predicting insurance costs based on user data.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Developer Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true&line=ff2da0&color=ff2da0"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ff2da0&style=for-the-badge"/>
+</p>
+
+---
+
+# 💬 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+```bash
+AI Systems
+Advanced Backend Development
+Cloud Infrastructure
+System Design
+```
+
+---
+
+# ⚡ Fun Fact
+
+> The best code is written at **2 AM in dark mode with neon lights.**
+
 
 
 ---
