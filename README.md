@@ -1,4 +1,7 @@
-# 👨‍💻 SANTHOSH
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1cff,100:ff2da0&height=120&section=header&text=CYBERPUNK%20DEV%20PROFILE&fontSize=40&fontColor=ffffff"/>
+</p># 
+               👨‍💻 SANTHOSH
 
 ### AI Developer • Java Backend • Cloud Explorer
 
@@ -226,11 +229,13 @@ Machine learning model predicting insurance costs based on user data.
 
 # 📊 Developer Analytics
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh715376&theme=tokyonight"/>
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=AI-Resume-Screener&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Fee-Management-System&theme=tokyonight"/>
 
 </p>
 
@@ -268,8 +273,6 @@ Machine learning model predicting insurance costs based on user data.
 
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1cff,100:ff2da0&height=120&section=header&text=CYBERPUNK%20DEV%20PROFILE&fontSize=40&fontColor=ffffff"/>
-</p>
+
 
 
