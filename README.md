@@ -263,15 +263,6 @@ Machine learning model predicting insurance costs based on user data.
 </p>
 
 ---
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh715376&theme=tokyonight"/>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=AI-Resume-Screener&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Fee-Management-System&theme=tokyonight"/>
-
-</p>
 
 
 
