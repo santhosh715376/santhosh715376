@@ -251,9 +251,8 @@ Machine learning model predicting insurance costs based on user data.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/santhosh715376/santhosh715376/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p><div align="center">
 ---
 
 # 👀 Profile Visitors
