@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Techie
+# 👨‍💻 SANTHOSH
 
 ### AI Developer • Java Backend • Cloud Explorer
 
@@ -121,9 +121,9 @@ Machine learning model predicting costs.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight"/>
 
 </p>
 <!-- =========================
@@ -230,9 +230,9 @@ Machine learning model predicting insurance costs based on user data.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&theme=tokyonight&border_radius=10"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight&border_radius=10"/>
 
 </p>
 
@@ -241,7 +241,7 @@ Machine learning model predicting insurance costs based on user data.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true&line=ff2da0&color=ff2da0"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=tokyo-night&hide_border=true&line=ff2da0&color=ff2da0"/>
 </p>
 
 ---
@@ -249,7 +249,7 @@ Machine learning model predicting insurance costs based on user data.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/santhosh715376/santhosh715376/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -257,7 +257,7 @@ Machine learning model predicting insurance costs based on user data.
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ff2da0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=santhosh715376&label=Profile%20Views&color=ff2da0&style=for-the-badge"/>
 </p>
 
 ---
@@ -294,6 +294,176 @@ System Design
 # 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/santhosh715376/santhosh715376/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+<!-- ===================================================== -->
+
+<!--                CYBERPUNK DEV DASHBOARD                -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=TECHIE%20CYBER%20DASHBOARD&fontSize=50&color=0:0f0f1a,100:ff2da0&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=FF2DA0&center=true&width=800&lines=AI+Developer;Java+Backend+Engineer;Cloud+Explorer;Building+Next+Gen+Tech"/>
+
+</div>
+
+---
+
+# ⚡ SYSTEM STATUS
+
+```diff
++ SYSTEM ONLINE
++ DARK MODE ENABLED
++ NEON INTERFACE LOADED
++ READY TO BUILD COOL STUFF
+```
+
+---
+
+# 🌐 NETWORK PORTALS
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&color=ff2da0"/>
+</a>
+
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&color=ff2da0"/>
+</a>
+
+<a href="https://youtube.com">
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&color=ff2da0"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ TECH ARSENAL
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,aws,mysql,docker,linux,git,vscode,tensorflow"/>
+
+</p>
+
+---
+
+# 🚀 PROJECT CONTROL PANEL
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=AI-Resume-Screener&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Fee-Management-System&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Insurance-Cost-Prediction&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 DEVELOPER TELEMETRY
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 ACTIVITY MATRIX
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=tokyo-night&line=ff2da0&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 CODING INTELLIGENCE
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=santhosh715376&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://github.com/santhosh715376/santhosh715376/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💬 DEV QUOTE
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👁 VISITOR SCANNER
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=santhosh715376&label=PROFILE%20VISITS&color=ff2da0&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚡ CURRENT MISSION
+
+```bash
+Learning Advanced AI Systems
+Building Scalable Backend Architectures
+Exploring Cloud Infrastructure
+Creating Developer Tools
+```
+
+---
+
+# 🎨 CYBERPUNK COLOR PALETTE
+
+| Element     | Color   |
+| ----------- | ------- |
+| Background  | #0f0f1a |
+| Neon Pink   | #ff2da0 |
+| Purple Glow | #7a1cff |
+| Accent      | #ff5fd2 |
+
+---
+
+# 🧠 FUN FACT
+
+> The best code is written at **2 AM in dark mode with neon lights.**
+
 
