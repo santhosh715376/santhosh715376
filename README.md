@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p><div align="center">
 
 # 👨‍💻 SANTHOSH
 
@@ -261,6 +263,18 @@ Machine learning model predicting insurance costs based on user data.
 </p>
 
 ---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh715376&theme=tokyonight"/>
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=AI-Resume-Screener&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Fee-Management-System&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1cff,100:ff2da0&height=120&section=header&text=CYBERPUNK%20DEV%20PROFILE&fontSize=40&fontColor=ffffff"/>
+</p>
 
 
