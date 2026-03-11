@@ -164,11 +164,11 @@ Machine learning model predicting costs.
 
 <p align="center">
 
-<a href="https://twitter.com">
+<a href="https://x.com/santhxoshh">
 <img src="https://img.shields.io/badge/X/Twitter-111111?style=for-the-badge&logo=x&logoColor=white&color=ff2da0"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/sri-santhosh-408305317">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&color=ff2da0"/>
 </a>
 
