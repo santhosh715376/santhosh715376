@@ -1,11 +1,8 @@
 <p align="center">
-<img src="download.gif" width="100%">
-</p>
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF9C&center=true&width=700&lines=Welcome+to+my+GitHub;AI+Developer;Java+Backend+Engineer;Building+Cool+Tech"/>
 </p>
 
-### AI Developer • Java Backend • Cloud Explorer
+### SRI SANTHOSH
 
 </div>
 
