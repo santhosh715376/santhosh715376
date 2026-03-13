@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1cff,100:ff2da0&height=120&section=header&text=SRI SANTHOSH&fontSize=40&fontColor=ffffff"/>
+<img src="download.gif" width="100%">
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF9C&center=true&width=700&lines=Welcome+to+my+GitHub;AI+Developer;Java+Backend+Engineer;Building+Cool+Tech"/>
+</p>
 
 ### AI Developer • Java Backend • Cloud Explorer
 
