@@ -232,14 +232,7 @@ Machine learning model predicting insurance costs based on user data.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh715376&theme=tokyonight"/>
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight"/>
-
-
-</p>
 
 ---
 
