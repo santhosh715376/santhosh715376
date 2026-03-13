@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1cff,100:ff2da0&height=120&section=header&text=CYBERPUNK%20DEV%20PROFILE&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7a1cff,100:ff2da0&height=120&section=header&text=SRI SANTHOSH&fontSize=40&fontColor=ffffff"/>
 </p>
 
-                                                        👨‍💻 SANTHOSH
 
 ### AI Developer • Java Backend • Cloud Explorer
 
