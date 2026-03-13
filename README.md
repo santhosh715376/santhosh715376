@@ -37,7 +37,7 @@
 ```
 
 * 🔭 Building **AI & ML projects**
-* ⚡ Java Backend Developer
+* ⚡ Aspiring Java Developer
 * ☁️ Exploring **AWS Cloud**
 * 🚀 Building developer tools
 
