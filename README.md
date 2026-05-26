@@ -152,7 +152,7 @@ Machine learning model predicting costs.
 
 * 🤖 Building **AI & ML Projects**
 * ☁️ Exploring **AWS & Cloud Infrastructure**
-* ⚙️ Java Backend Developer
+* ⚙️ Full Stack Developer
 * 🚀 Love building automation & dev tools
 * 🧠 Constantly learning new tech
 
