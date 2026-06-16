@@ -1,0 +1,30 @@
+<svg width="1200" height="54" viewBox="0 0 1200 54" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Animated section divider</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4AA" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#00D4AA"/>
+      <stop offset="0.55" stop-color="#58A6FF"/>
+      <stop offset="0.82" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-200%" width="120%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M20 27 H1180" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-dasharray="10 16" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-260" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle cy="27" r="5" fill="#00D4AA" filter="url(#glow)">
+    <animate attributeName="cx" values="60;1140;60" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="27" r="4" fill="#A371F7" filter="url(#glow)">
+    <animate attributeName="cx" values="1140;60;1140" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.9;0.15" dur="11s" repeatCount="indefinite"/>
+  </circle>
+</svg>
