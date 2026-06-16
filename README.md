@@ -1,121 +1,64 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF9C&center=true&width=700&lines=Welcome+to+my+GitHub;AI+Developer;Java+Backend+Engineer;Building+Cool+Tech"/>
-</p>
-
-### SRI SANTHOSH
-
-</div>
-
----
-
 <div align="center">
 
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/X/Twitter-111111?style=for-the-badge&logo=x&logoColor=white&color=ff2da0"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sri+Santhosh;AI+%26+ML+Engineer+in+Training;Full-Stack+%2F+Java+Developer;Currently%3A+Open+to+Internships" alt="Typing SVG" />
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&color=ff2da0"/>
-</a>
+<br/>
 
-<a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white&color=ff2da0"/>
-</a>
-
-<a href="https://twitch.tv">
-<img src="https://img.shields.io/badge/Twitch-111111?style=for-the-badge&logo=twitch&logoColor=white&color=ff2da0"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-santhosh-dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santhxoshh)
 
 </div>
 
----
+<br/>
 
-# 💬 About Me
+## About Me
 
-```diff
-+ Nice, using dark mode I see, like a true developer!
-```
+I'm a second-year **AI & ML** student at Sri Eshwar College of Engineering, building things at the intersection of machine learning and full-stack development.
 
-* 🔭 Building **AI & ML projects**
-* ⚡ Aspiring Java Developer
-* ☁️ Exploring **AWS Cloud**
-* 🚀 Building developer tools
-
----
-
-# ✍️ My Writing
-
-You will find me writing about tech, development and accessibility.
-
-<a href="https://dev.to">
-<img src="https://img.shields.io/badge/DEV-Read_Articles-ff2da0?style=for-the-badge&logo=devdotto"/>
-</a>
+- 🎓 Studying AI & ML, with coursework spanning data science, operating systems, and software architecture
+- 🧠 Completed Google Cloud's *Introduction to Generative AI* learning path
+- 💻 Wrapped up a MERN Stack internship at Better Tomorrow
+- 🔬 Building ML projects across prediction, classification, and applied NLP
+- ☁️ Currently exploring AWS for deployment and infrastructure
+- 🎯 Open to internships and campus opportunities — currently in conversation with a few companies
 
 ---
 
-# 📚 Study & Learn
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-## 📘 WCAG 101
-
-Web Content Accessibility Guidelines simplified.
-
-<a href="#">
-<img src="https://img.shields.io/badge/Learn-WCAG-ff2da0?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 👾 Ally Monsters
-
-Accessibility community breaking barriers.
-
-<a href="#">
-<img src="https://img.shields.io/badge/Grow-Community-ff2da0?style=for-the-badge"/>
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mysql,mongodb,aws,git,flask&perline=10"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 AI Resume Screener
-
-AI tool analyzing candidate GitHub profiles.
-
-</td>
-
-<td width="33%">
-
-### 💰 Fee Management System
-
-Java + MySQL beginner-friendly system.
-
-</td>
-
-<td width="33%">
-
-### 📊 Insurance Cost Prediction
-
-Machine learning model predicting costs.
-
-</td>
-</tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI Email Response Generator**](https://github.com/santhosh715376/Email-Response-Generator-and-Summarizer) | Uses NLP/LLMs to summarize long emails and draft context-aware replies via modular AI agents | Python, LLMs |
+| [**Smart Classroom & Timetable Scheduler**](https://github.com/santhosh715376/Smart-Classroom-and-Timetable-Scheduler) | Conflict-free timetable generation with role-based access, using OR-Tools for AI-driven optimization | React, Node.js, MySQL |
+| [**Air Quality Index Prediction**](https://github.com/santhosh715376/Air-Quality-Index-Prediction-) | Flask web app predicting PM2.5 AQI from weather inputs using an ExtraTreesRegressor model | Python, Flask, scikit-learn |
+| [**Credit Card Fraud Detection**](https://github.com/santhosh715376/credit-card-fraud-detection) | Cleans and preprocesses transaction data, then applies ML models to flag fraud with accuracy/precision/recall analysis | Python, scikit-learn |
+| [**Fee Management System**](https://github.com/santhosh715376/fee_management_system) | A beginner-friendly Java + MySQL system for managing student fee records and payments | Java, MySQL |
+| [**AWS Mini Capstone**](https://github.com/santhosh715376/AWS-mini-capstone-projects) | Configured an EC2 Windows Server instance with IIS, security groups, and an Elastic IP for stable hosting | AWS, EC2, IIS |
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" />
+</p>
+
+---
+
+
 
 # 📊 GitHub Analytics
 
@@ -144,20 +87,6 @@ Machine learning model predicting costs.
 
 ---
 
-# ⚡ About Me
-
-```diff
-+ Nice, using dark mode I see... like a true developer.
-```
-
-* 🤖 Building **AI & ML Projects**
-* ☁️ Exploring **AWS & Cloud Infrastructure**
-* ⚙️ Full Stack Developer
-* 🚀 Love building automation & dev tools
-* 🧠 Constantly learning new tech
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -180,46 +109,7 @@ Machine learning model predicting costs.
 
 </p>
 
----
 
-# ⚙️ Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,aws,mysql,linux,git,vscode,tensorflow,docker&perline=9"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%">
-
-### 🤖 AI Resume Screener
-
-AI system that evaluates resumes using GitHub and project authenticity scoring.
-
-</td>
-
-<td width="33%">
-
-### 💰 Fee Management System
-
-Java + MySQL beginner-friendly system for managing student payments.
-
-</td>
-
-<td width="33%">
-
-### 📊 Insurance Cost Prediction
-
-Machine learning model predicting insurance costs based on user data.
-
-</td>
 
 </tr>
 </table>
