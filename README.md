@@ -80,37 +80,6 @@ I'm a second-year **AI & ML** student at Sri Eshwar College of Engineering, buil
 
 </div>
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://x.com/santhxoshh">
-<img src="https://img.shields.io/badge/X/Twitter-111111?style=for-the-badge&logo=x&logoColor=white&color=ff2da0"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sri-santhosh-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&color=ff2da0"/>
-</a>
-
-<a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white&color=ff2da0"/>
-</a>
-
-<a href="https://twitch.tv">
-<img src="https://img.shields.io/badge/Twitch-111111?style=for-the-badge&logo=twitch&logoColor=white&color=ff2da0"/>
-</a>
-
-</p>
-
-
-
-</tr>
-</table>
-
----
-
 # 📊 Developer Analytics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh715376&theme=tokyonight"/>
