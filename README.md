@@ -2,6 +2,7 @@
   <img src="./assets/profile-hero.svg" alt="Sri Santhosh animated GitHub profile banner" width="100%" />
 
   <br/>
+  <br><br/>
 
   <a href="https://www.linkedin.com/in/sri-santhosh-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-00d4aa?style=flat-square&labelColor=0d1117" alt="Open to internships"/>
   <img src="https://img.shields.io/badge/Font-Space%20Grotesk-58a6ff?style=flat-square&labelColor=0d1117" alt="Space Grotesk visual system"/>
 </div>
-
+<br><br/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2400&pause=850&color=00D4AA&center=true&vCenter=true&width=900&lines=AI+%26+ML+student+building+usable+software;Full-stack+builder+with+Java%2C+Python%2C+React%2C+Node.js;Shipping+ML+projects+from+notebooks+to+web+apps;Open+to+internships+and+campus+opportunities" alt="Animated introduction"/>
 </div>
