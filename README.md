@@ -69,13 +69,8 @@ I'm a second-year **AI & ML** student at Sri Eshwar College of Engineering, buil
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&theme=tokyonight"/>
 
 </p>
-<!-- =========================
-     NEON CYBERPUNK PROFILE
-     ========================= -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=FF2DA0&center=true&vCenter=true&width=900&lines=Hi+I'm+Techie;AI+Developer;Java+Backend+Engineer;Cloud+Explorer;Building+Cool+Stuff+🚀" />
 
 <br/>
 
@@ -119,18 +114,6 @@ I'm a second-year **AI & ML** student at Sri Eshwar College of Engineering, buil
 # 📊 Developer Analytics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh715376&theme=tokyonight"/>
-
-
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=tokyo-night&hide_border=true&line=ff2da0&color=ff2da0"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
