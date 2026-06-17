@@ -146,7 +146,7 @@
   <br/>
   <img height="170" src="https://streak-stats.demolab.com?user=santhosh715376&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub streak"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=santhosh715376&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=santhosh715376&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" alt="GitHub trophies"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Contribution activity graph"/>
   <br/>
