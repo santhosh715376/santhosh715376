@@ -64,21 +64,21 @@
     <text class="hero-subtitle" x="3" y="112">AI &amp; ML student - full-stack builder - Java + Python developer</text>
 
     <g transform="translate(0 146)">
-      <rect class="pill" x="0" y="0" width="152" height="36" rx="18"/>
-      <text class="pill-text" x="18" y="23">ML Projects</text>
-      <circle cx="130" cy="18" r="5" fill="#00D4AA">
+      <rect class="pill" x="0" y="0" width="170" height="36" rx="18"/>
+      <text class="pill-text" x="18" y="23">AI Agents &amp; LLMs</text>
+      <circle cx="148" cy="18" r="5" fill="#00D4AA">
         <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
       </circle>
 
-      <rect class="pill" x="168" y="0" width="166" height="36" rx="18"/>
-      <text class="pill-text" x="187" y="23">React + Node</text>
-      <circle cx="311" cy="18" r="5" fill="#58A6FF">
+      <rect class="pill" x="186" y="0" width="170" height="36" rx="18"/>
+      <text class="pill-text" x="204" y="23">Machine Learning</text>
+      <circle cx="338" cy="18" r="5" fill="#58A6FF">
         <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
       </circle>
 
-      <rect class="pill" x="350" y="0" width="196" height="36" rx="18"/>
-      <text class="pill-text" x="369" y="23">Open to Internships</text>
-      <circle cx="522" cy="18" r="5" fill="#A371F7">
+      <rect class="pill" x="372" y="0" width="160" height="36" rx="18"/>
+      <text class="pill-text" x="390" y="23">Full-Stack Dev</text>
+      <circle cx="514" cy="18" r="5" fill="#A371F7">
         <animate attributeName="opacity" values="0.45;1;0.45" dur="1.7s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -88,8 +88,8 @@
       <circle cx="24" cy="24" r="6" fill="#FF7B72"/>
       <circle cx="44" cy="24" r="6" fill="#F2CC60"/>
       <circle cx="64" cy="24" r="6" fill="#7EE787"/>
-      <text class="terminal" x="22" y="60">$ build --focus recruiter-ready-products</text>
-      <text class="muted" x="22" y="88">shipping: ML web apps, schedulers, analytics, cloud labs</text>
+      <text class="terminal" x="22" y="60">$ python train.py --epochs 10 --model transformer</text>
+      <text class="muted" x="22" y="88">Epoch 10/10 | Loss: 0.042 | Acc: 98.5% | Ready for deploy</text>
       <rect x="22" y="100" width="72" height="3" rx="1.5" fill="#00D4AA">
         <animate attributeName="x" values="22;452;22" dur="5.8s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.2;1;0.2" dur="5.8s" repeatCount="indefinite"/>

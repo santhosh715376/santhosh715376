@@ -1,0 +1,133 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI/ML Model Pipeline Visualizer</title>
+  <desc id="desc">Animated representation of a machine learning workflow: Ingestion, Preprocessing, Training, Evaluation, Deployment.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070B"/>
+      <stop offset="0.5" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#091E36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="0" x2="1060" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4AA"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');
+      text { font-family: 'Space Grotesk', 'Segoe UI', Arial, sans-serif; }
+      .header-title { fill: #F6F8FA; font-size: 24px; font-weight: 700; }
+      .header-sub { fill: #8B949E; font-size: 14px; font-weight: 500; }
+      .node-title { fill: #F0F6FC; font-size: 16px; font-weight: 700; }
+      .node-sub { fill: #8B949E; font-size: 12px; font-weight: 500; }
+      .pipeline-line { stroke: #21262D; stroke-width: 2; stroke-linecap: round; }
+      .pipeline-active { stroke: url(#accent); stroke-width: 2.2; stroke-linecap: round; stroke-dasharray: 6 10; }
+      .node-box { fill: #0D1117; stroke: #30363D; stroke-width: 1.4; }
+      .active-pulse { fill: #00D4AA; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="1" y="1" width="1198" height="248" rx="24" fill="url(#bg)" stroke="#30363D"/>
+  
+  <!-- Header Text -->
+  <text class="header-title" x="70" y="48">AI/ML Production Pipeline</text>
+  <text class="header-sub" x="70" y="70">Continuous integration, validation, and inference workflows</text>
+
+  <!-- Connectors -->
+  <g>
+    <!-- Background inactive tracks -->
+    <path d="M 120 135 H 1060" class="pipeline-line" />
+    
+    <!-- Active animated track -->
+    <path id="pipeline-path" d="M 120 135 H 1060" class="pipeline-active" filter="url(#glow)">
+      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Data Flow Particles -->
+  <!-- Particle 1: Ingestion to Preprocessing -->
+  <circle r="4" fill="#00D4AA" filter="url(#glow)">
+    <animateMotion dur="2.5s" repeatCount="indefinite" path="M 120 135 H 340" />
+  </circle>
+  
+  <!-- Particle 2: Preprocessing to Training -->
+  <circle r="4" fill="#2F81F7" filter="url(#glow)">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M 340 135 H 580" />
+  </circle>
+
+  <!-- Particle 3: Training to Eval -->
+  <circle r="4" fill="#58A6FF" filter="url(#glow)">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M 580 135 H 820" />
+  </circle>
+
+  <!-- Particle 4: Eval to Deploy -->
+  <circle r="4" fill="#A371F7" filter="url(#glow)">
+    <animateMotion dur="3.2s" repeatCount="indefinite" path="M 820 135 H 1060" />
+  </circle>
+
+  <!-- Pipeline Nodes -->
+  <!-- Node 1: Ingestion -->
+  <g transform="translate(120 135)">
+    <circle cx="0" cy="0" r="14" fill="#071A2C" stroke="#00D4AA" stroke-width="2" filter="url(#glow)" />
+    <circle cx="0" cy="0" r="6" fill="#00D4AA">
+      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="node-title" x="0" y="-24" text-anchor="middle">Data Ingestion</text>
+    <text class="node-sub" x="0" y="30" text-anchor="middle">Raw Sources (SQL, APIs)</text>
+    <text class="node-sub" x="0" y="44" text-anchor="middle">Ingesting...</text>
+  </g>
+
+  <!-- Node 2: Preprocessing -->
+  <g transform="translate(340 135)">
+    <circle cx="0" cy="0" r="14" fill="#071A2C" stroke="#00D4AA" stroke-width="2" filter="url(#glow)" />
+    <circle cx="0" cy="0" r="6" fill="#00D4AA">
+      <animate attributeName="r" values="5;7;5" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <text class="node-title" x="0" y="-24" text-anchor="middle">Preprocessing</text>
+    <text class="node-sub" x="0" y="30" text-anchor="middle">Pandas &amp; Numpy</text>
+    <text class="node-sub" x="0" y="44" text-anchor="middle">Scaling &amp; Encoding</text>
+  </g>
+
+  <!-- Node 3: Model Training -->
+  <g transform="translate(580 135)">
+    <circle cx="0" cy="0" r="18" fill="#071A2C" stroke="#58A6FF" stroke-width="2.5" filter="url(#glow)" />
+    <circle cx="0" cy="0" r="8" fill="#58A6FF">
+      <animate attributeName="r" values="6;11;6" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="node-title" x="0" y="-28" text-anchor="middle">Model Training</text>
+    <text class="node-sub" x="0" y="32" text-anchor="middle">PyTorch &amp; Sklearn</text>
+    <text class="node-sub" x="0" y="46" text-anchor="middle">Hyperparameter Tuning</text>
+  </g>
+
+  <!-- Node 4: Evaluation -->
+  <g transform="translate(820 135)">
+    <circle cx="0" cy="0" r="14" fill="#071A2C" stroke="#58A6FF" stroke-width="2" filter="url(#glow)" />
+    <circle cx="0" cy="0" r="6" fill="#58A6FF">
+      <animate attributeName="r" values="5;7;5" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+    <text class="node-title" x="0" y="-24" text-anchor="middle">Evaluation</text>
+    <text class="node-sub" x="0" y="30" text-anchor="middle">ROC-AUC &amp; F1 Metrics</text>
+    <text class="node-sub" x="0" y="44" text-anchor="middle">Loss: 0.042</text>
+  </g>
+
+  <!-- Node 5: Deployment -->
+  <g transform="translate(1060 135)">
+    <circle cx="0" cy="0" r="14" fill="#071A2C" stroke="#A371F7" stroke-width="2" filter="url(#glow)" />
+    <circle cx="0" cy="0" r="6" fill="#A371F7">
+      <animate attributeName="r" values="4;8;4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text class="node-title" x="0" y="-24" text-anchor="middle">Deployment</text>
+    <text class="node-sub" x="0" y="30" text-anchor="middle">FastAPI &amp; Docker</text>
+    <text class="node-sub" x="0" y="44" text-anchor="middle">Active Inference</text>
+  </g>
+  
+  <!-- Frame highlight border -->
+  <rect x="1" y="1" width="1198" height="248" rx="23" stroke="url(#accent)" stroke-width="1.5" opacity="0.65"/>
+</svg>
