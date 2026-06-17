@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -25,7 +25,66 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish animation
+      # These calls happen ONCE A DAY from the Action's runner, not once per
+      # profile visitor. That's the whole fix: instead of every recruiter's
+      # browser hammering the public github-readme-stats / vercel instances
+      # (which get rate-limited and paused — see anuraghazra/github-readme-stats
+      # issues #4737 and #4748), only this scheduled job does, and the cards
+      # get committed as plain static SVGs that raw.githubusercontent.com
+      # serves reliably.
+      - name: Fetch static stat cards
+        run: |
+          mkdir -p dist/stats
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" \
+            -o dist/stats/github-stats.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&langs_count=10&theme=github_dark&hide_border=true&title_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" \
+            -o dist/stats/top-langs.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Smart-Classroom-and-Timetable-Scheduler&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" \
+            -o dist/stats/pin-timetable.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Email-Response-Generator-and-Summarizer&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" \
+            -o dist/stats/pin-email.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Air-Quality-Index-Prediction-&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" \
+            -o dist/stats/pin-aqi.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=credit-card-fraud-detection&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" \
+            -o dist/stats/pin-fraud.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com?user=santhosh715376&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" \
+            -o dist/stats/streak.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-profile-trophy.vercel.app/?username=santhosh715376&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" \
+            -o dist/stats/trophy.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=00D4AA&line=00D4AA&point=FFFFFF" \
+            -o dist/stats/activity-graph.svg
+
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhosh715376&theme=github_dark" \
+            -o dist/stats/profile-summary.svg
+
+      - name: Sanity-check the downloads
+        run: |
+          for f in dist/stats/*.svg; do
+            if ! grep -q "<svg" "$f"; then
+              echo "::warning file=$f::Upstream service did not return a valid SVG this run. The card stays on its last good version until the next successful run."
+            fi
+          done
+
+      - name: Publish assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
