@@ -60,7 +60,7 @@
 <div align="center">
   <img src="./assets/tech-flow.svg" alt="Animated technology flow" width="100%" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,fastapi,js,react,nodejs,express,mysql,mongodb,aws,git,github&amp;perline=8&amp;theme=dark" alt="Technology icons"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,js,react,nodejs,express,mysql,mongodb,aws,git,github&amp;perline=7&amp;theme=dark" alt="Technology icons"/>
 </div>
 
 <img src="./assets/section-divider.svg" width="100%" alt="Animated section divider"/>
