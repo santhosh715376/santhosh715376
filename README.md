@@ -75,7 +75,8 @@
 
 <div align="center">
   <a href="https://github.com/santhosh715376/Smart-Classroom-and-Timetable-Scheduler">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&amp;repo=Smart-Classroom-and-Timetable-Scheduler&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00D4AA&amp;icon_color=00D4AA&amp;text_color=C9D1D9&amp;bg_color=0D1117" alt="Smart Classroom and Timetable Scheduler"/>
+    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Smart-Classroom-and-Timetable-Scheduler&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" alt="Smart Classroom and Timetable Scheduler" />
+
   </a>
   <a href="https://github.com/santhosh715376/Email-Response-Generator-and-Summarizer">
     <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&amp;repo=Email-Response-Generator-and-Summarizer&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00D4AA&amp;icon_color=00D4AA&amp;text_color=C9D1D9&amp;bg_color=0D1117" alt="AI Email Response Generator"/>
