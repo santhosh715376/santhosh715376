@@ -74,19 +74,7 @@
 ### Featured Build Signals
 
 <div align="center">
-  <a href="https://github.com/santhosh715376/Smart-Classroom-and-Timetable-Scheduler">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&repo=Smart-Classroom-and-Timetable-Scheduler&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" alt="Smart Classroom and Timetable Scheduler" />
-
-  </a>
-  <a href="https://github.com/santhosh715376/Email-Response-Generator-and-Summarizer">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&amp;repo=Email-Response-Generator-and-Summarizer&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00D4AA&amp;icon_color=00D4AA&amp;text_color=C9D1D9&amp;bg_color=0D1117" alt="AI Email Response Generator"/>
-  </a>
-  <a href="https://github.com/santhosh715376/Air-Quality-Index-Prediction-">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&amp;repo=Air-Quality-Index-Prediction-&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00D4AA&amp;icon_color=00D4AA&amp;text_color=C9D1D9&amp;bg_color=0D1117" alt="Air Quality Index Prediction"/>
-  </a>
-  <a href="https://github.com/santhosh715376/credit-card-fraud-detection">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=santhosh715376&amp;repo=credit-card-fraud-detection&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00D4AA&amp;icon_color=00D4AA&amp;text_color=C9D1D9&amp;bg_color=0D1117" alt="Credit Card Fraud Detection"/>
-  </a>
+  <img src="./assets/project-showcase.svg" alt="Animated featured project showcase" width="100%" />
 </div>
 
 <details open>
@@ -142,12 +130,7 @@
 ### Live GitHub Signal
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=santhosh715376&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh715376&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00D4AA&text_color=C9D1D9&bg_color=0D1117" alt="Top languages"/>
-  <br/>
   <img height="170" src="https://streak-stats.demolab.com?user=santhosh715376&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub streak"/>
-  <br/>
-  <img src="https://gh-trophy.cdnsoft.net/?username=santhosh715376&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" alt="GitHub trophies"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh715376&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Contribution activity graph"/>
   <br/>
